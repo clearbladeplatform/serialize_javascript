@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,serialize_javascript",
+    "logging_enabled": "false",
+    "name": "serialize_javascriptSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "serialize_javascriptSmokeTest.js"
+}
